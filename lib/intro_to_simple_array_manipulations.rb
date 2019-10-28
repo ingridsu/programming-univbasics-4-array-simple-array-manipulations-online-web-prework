@@ -1,2 +1,2 @@
 artists = ["Frida Kahlo", "Pablo Picasso", "Cai Guo-Qiang"]
-artists.push
+artists.push(Diego Rivera)
